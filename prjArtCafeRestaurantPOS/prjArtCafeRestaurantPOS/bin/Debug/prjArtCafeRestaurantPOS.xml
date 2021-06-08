@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+prjArtCafeRestaurantPOS
+</name>
+</assembly>
+<members>
+<member name="T:prjArtCafeRestaurantPOS.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:prjArtCafeRestaurantPOS.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:prjArtCafeRestaurantPOS.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:prjArtCafeRestaurantPOS.My.Resources.Resources._05133619_interior_2_cover_1920x1280">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prjArtCafeRestaurantPOS.My.Resources.Resources.interior_tech_technology_coffee">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prjArtCafeRestaurantPOS.My.Resources.Resources.pexels_photo_3887985">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prjArtCafeRestaurantPOS.My.Resources.Resources.photo_1445116572660_236099ec97a0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:prjArtCafeRestaurantPOS.My.Resources.Resources.Shutter_Cafe_Interiors_and_Dining_Area">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
